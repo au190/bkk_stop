@@ -33,6 +33,7 @@ minsAfter: 25
 wheelchair: true
 ```
 
+
 #### Lovelace UI
 There is a Lovelace custom card related to this component at [https://github.com/amaximus/bkk-stop-card](https://github.com/amaximus/bkk-stop-card).
 
